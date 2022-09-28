@@ -281,17 +281,17 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 40%;
-}
 .about-stats .progress-bars .progress-bar .progress-con .progress .sql {
   width: 60%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .js {
+  width: 20%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 40%;
+  width: 20%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 40%;
+  width: 20%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
   width: 20%;
