@@ -9,5 +9,6 @@
     });
     document.querySelector(".theme-btn").addEventListener("click", () => {
         document.body.classList.toggle("dark-mode");
+        // this.classList.toggle("fa-solid fa-sun");
     })
 })();
